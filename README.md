@@ -10,6 +10,12 @@ pythonised:
 
 https://github.com/coleifer/vedis-python
 
+issues, reported this trouble:
+
+1) https://github.com/coleifer/vedis-python/issues/21
+2) https://github.com/symisc/vedis/issues/21
+
+
 Recieving trouble of this kind every time on different VPS, but works fine on home laptop:
 
 
